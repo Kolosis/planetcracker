@@ -1,0 +1,9 @@
+{
+  "interstitialShare": 100,
+  "interstitialSessionCap": 20,
+  "interstitialDailyCap": 60,
+  "interstitialGapSecs": 180,
+  "rewardedDailyCap": 6,
+  "welcomeDailyCap": 3,
+  "boostDailyCap": 3
+}
